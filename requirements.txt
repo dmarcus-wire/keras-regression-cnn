@@ -1,0 +1,9 @@
+jupyter
+scikit-learn
+tensorflow
+keras
+numpy
+pandas
+argparse
+opencv-python
+opencv-contrib-python
